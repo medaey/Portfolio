@@ -6,7 +6,7 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Ingénieur sécurité système & réseau","Développeur"
+          "Architecte Systèmes & Réseaux | DevOps & Sécurité","Ingénieur sécurité système & réseau","Développeur"
         ],
         autoStart: true,
         loop: true,
